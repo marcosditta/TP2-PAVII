@@ -1,12 +1,21 @@
-div {
+.container{
   width: 100%;
-  border: 1px solid gray;
+  border: 1px solid grey;
 }
 
-body {
-  background-color: red;
+header{
+  padding: 1em;
+  color: white;
+  background-color: black;
+  clear: left;
+  text-align: center;
 }
 
-h1 {
-  color: blueviolet;
+footer{
+  padding: 1em;
+  color: white;
+  background-color: black;
+  clear: left;
+  text-align: center;
 }
+
